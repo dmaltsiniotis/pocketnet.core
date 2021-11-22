@@ -319,6 +319,7 @@ namespace PocketConsensus
                     NetworkTest,
                     {
                         {0, 30}
+                        {370000, 15}
                     }
                 }
             }
@@ -338,6 +339,7 @@ namespace PocketConsensus
                     NetworkTest,
                     {
                         {0, 250'000},
+                        {370000, 130'000}
                     }
                 }
             }
