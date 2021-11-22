@@ -292,8 +292,7 @@ namespace PocketConsensus
                     NetworkMain,
                     {
                         {0,       0},
-                        {1124000, 100},
-                        {1480000, 15}
+                        {1124000, 100}
                     }
                 },
                 {
@@ -312,7 +311,8 @@ namespace PocketConsensus
                 {
                     NetworkMain,
                     {
-                        {0, 30}
+                        {0, 30},
+                        {1480000, 15}
                     }
                 },
                 {
